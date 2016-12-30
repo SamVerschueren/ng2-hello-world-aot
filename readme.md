@@ -1,5 +1,7 @@
 # ng2-hello-world-aot
 
+[![Build Status: Linux](https://travis-ci.org/SamVerschueren/ng2-hello-world-aot.svg?branch=master)](https://travis-ci.org/SamVerschueren/ng2-hello-world-aot) [![Build status: Windows](https://ci.appveyor.com/api/projects/status/dm8y8mm6je7a8yn0/branch/master?svg=true)](https://ci.appveyor.com/project/SamVerschueren/ng2-hello-world-aot/branch/master)
+
 > Angular2 Hello World AoT application
 
 
